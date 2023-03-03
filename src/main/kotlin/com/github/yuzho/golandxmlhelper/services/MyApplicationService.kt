@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yuzho.golandxmlhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yuzho.golandxmlhelper.MyBundle
 
 class MyApplicationService {
 
